@@ -274,7 +274,7 @@ main {
         text-align: end;
         align-self: flex-end;
     }
-
+        /* Gallery */
     #photos {
         column-count: 3;
     }
@@ -285,7 +285,7 @@ main {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
-
+        /* Gallery */
     #photos {
         columns: 4;
     }
